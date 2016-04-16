@@ -1,2 +1,1 @@
-# datasciencecoursera
-Homework Assignments for Hopkins SPH Data Science course.
+## This is a markdown file
